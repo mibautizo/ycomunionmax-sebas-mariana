@@ -334,7 +334,67 @@ sr.reveal('.textoSeccion3', {
 		
 
 	});
+	sr.reveal('.btnWhatsNovios', {
+		duration: 2500, //tiempo
+		delay:1000,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
 
+
+
+	});
+	sr.reveal('.textoasistencia', {
+		duration: 2500, //tiempo
+		delay:500,
+		origin: 'top', //origen
+		distance: '50px', //distancia
+		
+
+	});
+	sr.reveal('#cuenta', {
+		duration: 2500, //tiempo
+		delay:1000,
+		origin: 'bottom', //origen
+		distance: '100px' //distancia
+
+
+
+	});
+sr.reveal('.porqueformas', {
+		duration: 2500, //tiempo
+		delay:700,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
+
+
+	}); 
+sr.reveal('.lugar', {
+		duration: 1500, //tiempo
+		delay:900,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
+
+
+	}); 
+sr.reveal('.hora', {
+		duration: 1500, //tiempo
+		delay:900,
+		origin: 'bottom', //origen
+		distance: '200px' //distancia
+
+
+	}); 
+sr.reveal('.btnComoLlegar', {
+		duration: 3000, //tiempo
+		delay:600,
+		origin: 'bottom', //origen
+		distance: '200px' //distancia
+
+
+	}); 
 	///////////////////////////////////////////////////////////////////////////////////////////7
 	// Initialize and add the map
 const playpause = document.querySelector('.playpause');
