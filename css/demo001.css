@@ -112,7 +112,7 @@ font-family: 'Tangerine', cursive;
 
 margin-top: -40px;
   margin-bottom: 30px;
-  color:#9B7A07;
+  color:#8F9677;
   font-size: 100px;
 ;
 
@@ -201,7 +201,7 @@ font-weight: 1000;
 .nombres1{
 font-family: 'Great Vibes', cursive;
  
-  color:#000;
+  color:#8F9677;
   font-size: 65px;
   font-weight: 570;
 
@@ -212,7 +212,7 @@ margin-top: 40px;
 margin-bottom: 40px;
   color:#fff;
   font-size: 50px;
-  background-color: #000;
+  background-color: #8F9677;
   border-radius: 50%;
   width: 70px;
   height: 70px;
@@ -226,7 +226,7 @@ font-family: 'Tangerine', cursive;
 
 margin-top: -40px;
   margin-bottom: 30px;
-  color:#9B7A07;
+  color:#8F9677;
   font-size: 100px;
 ;
 
@@ -235,9 +235,9 @@ margin-top: -40px;
  font-family: 'Arapey', serif;
  letter-spacing: 5px;
   margin-top:0px;
-  color:white;
-  font-size: 13px;
-background-color: #E41E26; 
+  color:#8F9677;
+  font-size: 20px;
+background-color: #D6D0B4; 
 height:50px; 
 display:flex;
 justify-content: center; 
@@ -280,7 +280,7 @@ color:#868787;
 .nombres1{
 font-family: 'Great Vibes', cursive;
  
-  color:#000;
+  color:#8F9677;
   font-size: 38px;
   font-weight: 570;
 
@@ -292,7 +292,7 @@ margin-top: 40px;
 margin-bottom: 40px;
   color:#fff;
   font-size: 50px;
-  background-color: #000;
+  background-color: #8F9677;
   border-radius: 50%;
   width: 70px;
   height: 70px;
@@ -306,18 +306,18 @@ font-family: 'Tangerine', cursive;
 
 margin-top: -40px;
   margin-bottom: 30px;
-  color:#9B7A07;
+  color:#8F9677;
   font-size: 75px;
 ;
 
 }
 .nuestraBoda{
  font-family: 'Arapey', serif;
- letter-spacing: 5px;
+letter-spacing: 5px;
   margin-top:0px;
-  color:white;
-  font-size: 10px;
-background-color: #E41E26; 
+  color:#8F9677;
+  font-size: 20px;
+background-color: #D6D0B4; 
 height:50px; 
 display:flex;
 justify-content: center; 
@@ -528,7 +528,7 @@ align-items: center;
  font-size:50px;
  margin-top: 0px;
  margin-bottom: 0px;
-    color:#E41E26;
+    color:#D6D0B4;
 }
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
 
@@ -1263,7 +1263,7 @@ margin-top: 0px;
     border-bottom-color:#ffffff;
 }
 #scroll:hover {
-    background-color:#505050;
+    background-color:#D6D0B4;
     opacity:1;filter:"alpha(opacity=100)";
     -ms-filter:"alpha(opacity=100)";
 }
