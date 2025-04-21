@@ -15,7 +15,7 @@ window.sr = ScrollReveal();
 	}); 
 sr.reveal('.imagenP', {
 		duration: 2000, //tiempo
-		//delay:1500,
+		delay:1200,
 		origin: 'bottom', //origen
 		
 		distance: '100px' //distancia
